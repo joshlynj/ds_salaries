@@ -13,6 +13,7 @@ Data science is a multidisciplinary field that involves extracting insights and 
 - How does experience level relate to pay
 - Remote work ratio based on company size
 - Remote work ratio based on company location
+- How does employee location relate to pay
 
 ## 🎆 Data of Interest
 - Work Year
