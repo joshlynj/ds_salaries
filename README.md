@@ -1,4 +1,4 @@
-## 🎉 Data Science Salaries From U.S. Companies between 2022-2023
+## 🎉 Full Time Data Science Salaries From U.S. Companies between 2022-2023
 Data science is a multidisciplinary field that involves extracting insights and knowledge from structured and unstructured data using various scientific methods, algorithms, and tools. It combines elements of statistics, mathematics, computer science, and domain expertise to analyze and interpret complex data sets.
 
 
@@ -29,12 +29,17 @@ Data science is a multidisciplinary field that involves extracting insights and 
 ## 🏆 The Highest Paid Job Titles
 
 
-## Experience Level Based on Pay
+## 🛒 The Lowest Paid Job Tiles
 
-## 💬 Remote work ratio based on company location
+## 🍞 Most Common Job Titles and Their Average Salaries
+
+## 📍 Remote work ratio based on company location
 
 
-## 🕗 Remote work ratio based on company size
+## 🗺 Remote work ratio based on company size
 
 
 ## 🤓 Data Cleaning Process
+This dataset contained information about companies that were not located in the U.S. For the purpose of my analysis, I excluded those and only focused on U.S. based companies. 
+This dataset also contained information about multiple types of employees. I removed all data that was not related to full time employees. 
+
