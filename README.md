@@ -19,12 +19,12 @@ Data science is a multidisciplinary field that involves extracting insights and 
 - U.S. avg pay compared to other countries???
   
 ## 🎆 Data of Interest
-- Work Year
 - Experience level
 - Job Title
 - Salary in USD
 - Remote Ratio
 - Company Size
+- Employment Type
   
 
 
