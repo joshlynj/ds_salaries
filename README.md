@@ -14,9 +14,8 @@ Data science is a multidisciplinary field that involves extracting insights and 
 - Most Common Job Titles and Their Average Salaries
 - How does experience level relate to pay
 - Remote work ratio based on company size
-- Remote work ratio based on company location
-- How does employee location relate to pay
-- Pay based on type, contract, full time, part time???? 
+- Pay based on type, contract, full time, part time????
+- Remote work vs. salary????
 
 ## 🎆 Data of Interest
 - Work Year
