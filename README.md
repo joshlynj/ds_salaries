@@ -35,6 +35,7 @@ Data science is a multidisciplinary field that involves extracting insights and 
 ## 🍞 Most Common Job Titles and Their Average Salaries
 
 ## 🗺 Remote work ratio based on company size
+![image](https://github.com/joshlynj/ds_salaries/assets/96899068/7020519a-90c9-45e2-9ba2-88e2354f6747)
 
 ## 🌱 Salary Distribution by Experience Level
 
