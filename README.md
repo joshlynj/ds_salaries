@@ -29,15 +29,19 @@ Data science is a multidisciplinary field that involves extracting insights and 
 
 
 ## 🏆 The Highest Paid Job Titles
+![image](https://github.com/joshlynj/ds_salaries/assets/96899068/a0b58bfc-78d0-4a8b-a53e-5e0a30579431)
 
 ## 🛒 The Lowest Paid Job Tiles
+![image](https://github.com/joshlynj/ds_salaries/assets/96899068/90995fa7-49e6-4010-9727-626320bf8882)
 
 ## 🍞 Most Common Job Titles and Their Average Salaries
+![image](https://github.com/joshlynj/ds_salaries/assets/96899068/423503d1-4bf7-4b26-bb20-6aec5fd5612a)
 
 ## 🗺 Remote work ratio based on company size
 ![image](https://github.com/joshlynj/ds_salaries/assets/96899068/7020519a-90c9-45e2-9ba2-88e2354f6747)
 
 ## 🌱 Salary Distribution by Experience Level
+![image](https://github.com/joshlynj/ds_salaries/assets/96899068/98eecd4e-ba5e-41e3-b507-eb9796fc62af)
 
 
 ## 🤓 Data Cleaning Process
