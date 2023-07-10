@@ -16,7 +16,8 @@ Data science is a multidisciplinary field that involves extracting insights and 
 - Remote work ratio based on company size
 - Pay based on type, contract, full time, part time????
 - Remote work vs. salary????
-
+- U.S. avg pay compared to other countries???
+  
 ## 🎆 Data of Interest
 - Work Year
 - Experience level
@@ -24,6 +25,7 @@ Data science is a multidisciplinary field that involves extracting insights and 
 - Salary in USD
 - Remote Ratio
 - Company Size
+  
 
 
 ## 🏆 The Highest Paid Job Titles
