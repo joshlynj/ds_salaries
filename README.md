@@ -16,6 +16,7 @@ Data science is a multidisciplinary field that involves extracting insights and 
 - Remote work ratio based on company size
 - Remote work ratio based on company location
 - How does employee location relate to pay
+- Pay based on type, contract, full time, part time???? 
 
 ## 🎆 Data of Interest
 - Work Year
