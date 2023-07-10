@@ -1,0 +1,7 @@
+7/10 gameplan:
+Check for duplicate rows
+Clean up graphs from last week
+	- Add legends where necessary / rename acronyms to be user friendly
+Update powerpoint and readme with cleaned graphs
+Look into converting ipynb into python file
+Look into testing 
