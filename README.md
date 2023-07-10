@@ -30,15 +30,13 @@ Data science is a multidisciplinary field that involves extracting insights and 
 
 ## 🏆 The Highest Paid Job Titles
 
-
 ## 🛒 The Lowest Paid Job Tiles
 
 ## 🍞 Most Common Job Titles and Their Average Salaries
 
-## 📍 Remote work ratio based on company location
-
-
 ## 🗺 Remote work ratio based on company size
+
+## 🌱 Salary Distribution by Experience Level
 
 
 ## 🤓 Data Cleaning Process
