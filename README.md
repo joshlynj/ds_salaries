@@ -5,7 +5,7 @@ Data science is a multidisciplinary field that involves extracting insights and 
 ## 💼 Stakeholder Interest
 Wage information allows for those in search of a job to know what to expect from an employer.   
 Understanding the threshold for fair compensation is super important. It allows employees to know what is a fair wage for certain positions and skill levels. 
-    This information can ensure they are being fairly compensated for their skills, experience, and contributions.    
+This information can ensure they are being fairly compensated for their skills, experience, and contributions.    
 This data can help individuals make informed decisions about career paths, job changes, and skill development to maximize their earning potential.    
 Additionally, access to salary information promotes transparency within organizations and across industries. 
 
