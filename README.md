@@ -68,7 +68,7 @@ As I expected, entry level jobs typically tend to be the lowest paid, followed b
 This dataset contained information about companies that were not located in the U.S. For the purpose of my analysis, I excluded those and only focused on U.S. based companies. 
 This dataset also contained information about multiple types of employees. I removed all data that was not related to full time employees. 
 
-## Future Goals
+## 📅 Future Goals
 - Explore pay based on type: contracting, part-time, freelance
 - Compare hybrid, in person, and remote salaries
 - U.S. average pay compared to other countries
